@@ -1,0 +1,9 @@
+.wrapper{
+  max-inline-size: 72rem;
+  padding-inline-start: 1rem;
+  padding-inline-end: 1rem;
+  margin: auto;
+  /* display: flex;
+  flex-direction: column; */
+  border: 1px solid purple;
+}
