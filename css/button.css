@@ -12,6 +12,7 @@
   text-decoration: none;
   cursor: pointer;
   text-align: center;
+  letter-spacing: 1.25px;
 
 }
 
@@ -19,6 +20,7 @@
   background: unset;
   border: 2px solid var(--purple);
   color: var(--purple);
+   letter-spacing: 1.25px;
 }
 
 .button:active{
