@@ -5,6 +5,7 @@
 
 .hero-image{
   text-align: center;
+
 }
 
 .hero-description{
@@ -13,16 +14,12 @@
   gap: 1rem;
 }
 
-.hero-social{
-  padding-block-end: 1.5rem;
-  display: flex;
-  gap: 1rem;
-}
-
 .hero-image img {
   object-fit: cover;
   vertical-align: middle;
-   border-radius: 2rem;
+  border-radius: 2rem;
+  max-inline-size: 100%;
+  block-size: auto;
 }
 
 .hero h1{
@@ -47,6 +44,7 @@
   order: 2;
   flex: 1;
   text-align: end;
+  /* max-inline-size: 100%; */
 
 }
 

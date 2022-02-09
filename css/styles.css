@@ -6,7 +6,11 @@
 @import "./menu.css";
 @import "./description.css";
 @import "./comment.css";
-@import "./testimony.css";
+@import "./project.css";
+@import "./social.css";
+@import "./footer.css";
+@import "./form.css";
+@import "./title.css";
 
 :root{
   --gradient: radial-gradient(41.48% 11.48% at 2.38% 8.52%, #747de9 0%, rgba(255, 255, 255, 0) 100%),
@@ -18,10 +22,14 @@
   --headline3: bold 48px/77px var(--baseFont) ;
   --headline4: bold 34px/55px var(--baseFont) ;
   --headline5: bold 24px/39px var(--baseFont) ;
+  --headline5N: normal 24px/39px var(--baseFont) ;
+  --headline5B: bold 16px/26px var(--baseFont) ;
+  --headline6: bold 12px/19px var(--baseFont) ;
   --body1: normal 16px/26px var(--baseFont) ;
   --body2: normal 14px/22px var(--baseFont) ;
   --text: normal 34px/55px var(--oxygen) ;
   --textBold: bold 34px/55px var(--oxygen) ;
+  --textBoldSmall: bold 16px/26px var(--oxygen) ;
   --button: bold 14px/22px var(--baseFont) ;
   --caption: normal 12px/19px var(--baseFont) ;
   --purple: #310A90;
@@ -37,5 +45,6 @@ body{
   min-block-size: 100vh;
   font-family: var(--headline1);
   color: var(--purple);
+  margin: 0;
 }
 
