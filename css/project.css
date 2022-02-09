@@ -9,14 +9,16 @@
   flex-direction: column;
   gap: 1rem;
   color: var(--white);
+
 }
 
 .project-image img{
   max-inline-size: 100%;
   block-size: auto;
-
-
 }
+
+
+
 
 
 @media screen and (min-width: 768px){
@@ -48,7 +50,6 @@
 .project-title{
   font: var(--headline4);
 }
-
 
 
 }
