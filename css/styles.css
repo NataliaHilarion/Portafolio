@@ -32,7 +32,7 @@
   --textBoldSmall: bold 16px/26px var(--oxygen) ;
   --button: bold 14px/22px var(--baseFont) ;
   --caption: normal 12px/19px var(--baseFont) ;
-  --purple: #310A90;
+  --purple: rgb(16,0,65);
   --green: #42E2B8;
   --white: #FFFFFF;
 
