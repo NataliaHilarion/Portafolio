@@ -14,7 +14,7 @@
 
 :root{
   --gradient: radial-gradient(41.48% 11.48% at 2.38% 8.52%, #747de9 0%, rgba(255, 255, 255, 0) 100%),
-   linear-gradient(135deg, #72EDF2 0%, #5151E5 100%);
+   linear-gradient(135deg, #1A367E 0%, #5151E5 100%);
   --baseFont: 'Poppins', sans-serif;
   --oxygen: 'Oxygen', sans-serif;
   --headline1: bold 95px/153.71px var(--baseFont) ;
