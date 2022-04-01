@@ -1,3 +1,3 @@
 # Portafolio
-Página que muestra los proyectos terminados y subidos a Github. 
+Portafolio que muestra algunos proyectos que he realizado hasta el día de hoy, acá se puede evidenciar el código y aparte el proyecto final
 
